@@ -46,7 +46,7 @@ The complete code, interactive visualizations, analysis, findings and recommenda
 **[View the Colab Notebook Link](https://colab.research.google.com/drive/18Zqf-VIV2C1Kf6MBrDgBrcFmsaXiSTs8#scrollTo=ADNJ_dqBdAbH)**
 
 ## Data Source
-Statistics Canada — *Monthly Average Retail Prices for Food and Other Selected Products*  
+Statistics Canada - *Monthly Average Retail Prices for Food and Other Selected Products*  
 Table 18-10-0245
 
 ## Team
