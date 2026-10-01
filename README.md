@@ -1,38 +1,53 @@
-# Canadian Food Price Analysis with Plotly
+# Canadian Grocery Price Analysis with Plotly
+An end-to-end data analytics project exploring Canadian grocery price patterns using **Statistics Canada retail price data** and interactive **Plotly** visualizations.
 
-An interactive data analysis project exploring food price patterns across Canada using Government of Canada retail price data.
+## Project Overview
+This project investigates grocery prices through five analytical perspectives:
 
-## About the Project
+- **Geographic Price Disparity** - Where do prices differ?
+- **Grocery Price Inflation** - How much have prices changed?
+- **Price Volatility** - How stable are prices?
+- **Food Basket Cost Drivers** - What is driving grocery costs?
+- **Pricing Anomalies** - What unusual price behaviour should be monitored?
 
-This project uses **Python, Pandas, and Plotly** to analyze Canadian food prices and answer five main questions:
-
-1. Where? - How do food prices differ across Canada?
-2. How Much? - How have food prices changed over time?
-3. How Stable? - Which products show the most price volatility?
-4. What Is Driving the Cost? — Which products and categories contribute most to grocery costs?
-5. What Should We Watch? - Where do unusual pricing patterns appear?
-
-The goal is to use different Plotly visualizations to examine the same broader business problem from multiple perspectives.
-
-## Full Analysis
-
-The complete analysis, Python code, and interactive Plotly visualizations are available in our Google Colab notebook:
-
-➡️ **[View the Plotly Analysis Notebook](./Plotly%20Notebook/Plotly_Notebook.ipynb)**
+The project follows an end-to-end analytical workflow:
+**Raw Data → SQL → Data Cleaning → Feature Engineering → EDA → Plotly → Business Insights**
 
 ## Dataset
 
-This project uses the **Government of Canada – Monthly Average Retail Prices for Food and Other Selected Products** dataset (https://www150.statcan.gc.ca/n1/en/catalogue/18100245). The dataset contains monthly retail price observations across Canada, allowing us to analyze three main dimensions:
-**Time × Product × Geography**
+**Source:** Statistics Canada (https://www150.statcan.gc.ca/n1/en/catalogue/18100245)
+**Dataset:** Monthly Average Retail Prices for Food and Other Selected Products  
+**Coverage:** January 2017 - July 2026  
+**Products:** 106 grocery items  
+**Geography:** 10 provinces + Canada-level average
 
-### Data Source
-Government of Canada Open Data
+## Technologies
+- Python
+- Pandas
+- NumPy
+- SQL
+- Plotly Express
+- Plotly Graph Objects
+- Google Colab
+- Git & GitHub
 
-### What the Data Includes
-- Monthly retail price observations
-- Different food products
-- Canadian geographic regions
-- Product units of measure
-- Historical price changes
+## Repository Structure
 
-The original data is cleaned and prepared before being used for the Plotly analysis.
+    notebooks/      Complete Plotly analysis
+    data/raw/       Original dataset
+    data/processed/ Cleaned analysis-ready dataset
+    geo/            Canadian geographic data
+    sql/            SQL queries and documentation
+    src/            Supporting Python code
+
+## Full Analysis
+The complete code, interactive visualizations, analysis, findings and recommendations are available in the notebook:
+**[View the Complete Analysis](notebooks/canadian_grocery_price_analysis.ipynb)**
+**[View the Colab Notebook Link](https://colab.research.google.com/drive/18Zqf-VIV2C1Kf6MBrDgBrcFmsaXiSTs8#scrollTo=ADNJ_dqBdAbH)
+
+## Data Source
+Statistics Canada — *Monthly Average Retail Prices for Food and Other Selected Products*  
+Table 18-10-0245
+
+## Team
+Developed collaboratively as a 5-member data analytics project.
