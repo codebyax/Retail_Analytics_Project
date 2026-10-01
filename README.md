@@ -43,7 +43,7 @@ The project follows an end-to-end analytical workflow:
 ## Full Analysis
 The complete code, interactive visualizations, analysis, findings and recommendations are available in the notebook:
 **[View the Complete Analysis](notebooks/canadian_grocery_price_analysis.ipynb)**
-**[View the Colab Notebook Link](https://colab.research.google.com/drive/18Zqf-VIV2C1Kf6MBrDgBrcFmsaXiSTs8#scrollTo=ADNJ_dqBdAbH)
+**[View the Colab Notebook Link](https://colab.research.google.com/drive/18Zqf-VIV2C1Kf6MBrDgBrcFmsaXiSTs8#scrollTo=ADNJ_dqBdAbH)**
 
 ## Data Source
 Statistics Canada — *Monthly Average Retail Prices for Food and Other Selected Products*  
