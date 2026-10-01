@@ -19,3 +19,20 @@ The goal is to use different Plotly visualizations to examine the same broader b
 The complete analysis, Python code, and interactive Plotly visualizations are available in our Google Colab notebook:
 
 ➡️ **[View the Plotly Analysis Notebook](./Plotly%20Notebook/Plotly_Notebook.ipynb)**
+
+## Dataset
+
+This project uses the **Government of Canada – Monthly Average Retail Prices for Food and Other Selected Products** dataset (https://www150.statcan.gc.ca/n1/en/catalogue/18100245). The dataset contains monthly retail price observations across Canada, allowing us to analyze three main dimensions:
+**Time × Product × Geography**
+
+### Data Source
+Government of Canada Open Data
+
+### What the Data Includes
+- Monthly retail price observations
+- Different food products
+- Canadian geographic regions
+- Product units of measure
+- Historical price changes
+
+The original data is cleaned and prepared before being used for the Plotly analysis.
