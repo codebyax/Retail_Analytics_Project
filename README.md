@@ -35,10 +35,9 @@ The project follows an end-to-end analytical workflow:
 
     notebooks/      Complete Plotly analysis
     data/raw/       Original dataset
-    data/processed/ Cleaned analysis-ready dataset
+    data/cleaned/   Cleaned analysis-ready dataset
     geo/            Canadian geographic data
-    sql/            SQL queries and documentation
-    src/            Supporting Python code
+    
 
 ## Full Analysis
 The complete code, interactive visualizations, analysis, findings and recommendations are available in the notebook:
