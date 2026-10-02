@@ -46,7 +46,7 @@ The project follows an end-to-end analytical workflow:
 
 The complete project is available in a single notebook containing the **source code, data preparation, analysis, explanations, and interactive Plotly visualizations**.
 > **Recommended:** Open the notebook in **Google Colab** for the complete interactive experience. Plotly visualizations are JavaScript-based, so interactive charts may not display directly in GitHub's notebook preview.
-**[Open in Google Colab](https://colab.research.google.com/drive/18Zqf-VIV2C1Kf6MBrDgBrcFmsaXiSTs8#scrollTo=ADNJ_dqBdAbH)**
+**[Open in Google Colab](https://colab.research.google.com/drive/18Zqf-VIV2C1Kf6MBrDgBrcFmsaXiSTs8?usp=sharing)**
 
 **[View Notebook on GitHub](./Plotly%20Notebook/Canadian_Grocery_Price_Analysis.ipynb)**
 
