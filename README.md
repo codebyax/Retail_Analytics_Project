@@ -33,14 +33,17 @@ The project follows an end-to-end analytical workflow:
 
 ## Repository Structure
 
-    notebooks/      Complete Plotly analysis
-    data/raw/       Original dataset
-    data/cleaned/   Cleaned analysis-ready dataset
-    geo/            Canadian geographic data
+    ## Repository Structure
+
+    Plotly Notebook/   Complete Plotly analysis notebook
+    data/              Cleaned analysis-ready dataset
+    geo/               Canadian geographic GeoJSON data
+    README.md          Project overview and documentation
+    requirements.txt   Required Python packages
     
 
 ## Full Analysis
-The complete code, interactive visualizations, analysis, findings and recommendations are available in the notebook:
+The complete code, interactive visualizations, analysis, findings, and recommendations are available in the notebook:
 **[View the Complete Analysis](notebooks/canadian_grocery_price_analysis.ipynb)**
 **[View the Colab Notebook Link](https://colab.research.google.com/drive/18Zqf-VIV2C1Kf6MBrDgBrcFmsaXiSTs8#scrollTo=ADNJ_dqBdAbH)**
 
