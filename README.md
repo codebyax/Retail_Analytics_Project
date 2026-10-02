@@ -43,9 +43,13 @@ The project follows an end-to-end analytical workflow:
     
 
 ## Full Analysis
-The complete code, interactive visualizations, analysis, findings, and recommendations are available in the notebook:
-**[View the Complete Analysis](notebooks/canadian_grocery_price_analysis.ipynb)**
-**[View the Colab Notebook Link](https://colab.research.google.com/drive/18Zqf-VIV2C1Kf6MBrDgBrcFmsaXiSTs8#scrollTo=ADNJ_dqBdAbH)**
+
+The complete project is available in a single notebook containing the **source code, data preparation, analysis, explanations, and interactive Plotly visualizations**.
+> **Recommended:** Open the notebook in **Google Colab** for the complete interactive experience. Plotly visualizations are JavaScript-based, so interactive charts may not display directly in GitHub's notebook preview.
+**[Open in Google Colab](https://colab.research.google.com/drive/18Zqf-VIV2C1Kf6MBrDgBrcFmsaXiSTs8#scrollTo=ADNJ_dqBdAbH)**
+
+**[View Notebook on GitHub](./Plotly%20Notebook/Plotly_Notebook.ipynb)**
+Google Colab allows you to explore the interactive charts, hover details, dropdowns, 3D visualizations, and other Plotly features directly in your browser.
 
 ## Data Source
 Statistics Canada - *Monthly Average Retail Prices for Food and Other Selected Products*  
